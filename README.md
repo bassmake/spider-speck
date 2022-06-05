@@ -2,7 +2,11 @@
 
 Experimenting with .NET Framework.
 
-## TODO
+## Ideas
+
+- fluid simulations related: <https://www.youtube.com/watch?v=qsYE1wMEMPA>
+
+## NFR
 
 - property-based testing
 - db schema in code
